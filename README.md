@@ -10,9 +10,11 @@ When you are at the evidence pages, you can always go back using the back button
 If you click on the header, you will come back to this github page!
 
 Updated Ver.
-Added more stuff to organise everything.
-Added art for inspiration.
-Added links to what I attempted.
+
+- Added more stuff to organise everything.
+- Added art for inspiration.
+- Added links to what I attempted.
+
 
 Link to the schedule:
 <a href="https://jessicacnx.github.io/hblsch2.0/">HBL Schedule</a>
