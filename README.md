@@ -9,4 +9,4 @@ When you are at the evidence pages, you can always go back using the back button
 If you click on the header, you will come to this github page!
 
 Link to the schedule:
-<a href="https://jessicacnx.github.io/hblschedule/">HBL Schedule</a>
+<a href="https://jessicacnx.github.io/hblsch2.0/">HBL Schedule</a>
