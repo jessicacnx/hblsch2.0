@@ -14,6 +14,7 @@ Updated Ver.
 - Added more stuff to organise everything.
 - Added art for inspiration.
 - Added links to what I attempted.
+- Website works better on mobile.
 
 
 Link to the schedule:
