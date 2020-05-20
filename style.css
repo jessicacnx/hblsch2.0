@@ -13,6 +13,11 @@
   border-radius: 10px;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 h1 {
   font-family: 'Baloo Bhaina 2', cursive;
   font-size: 60px;
